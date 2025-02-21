@@ -24,9 +24,10 @@ Olá 😀, me chamo Felipe, tenho 19 anos, e atualmente sou estudante de ciencia
 </div>
 
 <br></br>
+<hr style="border: 1px solid #1643a2;">
 
 <div align="center">
-   Entre em contato comigo!
+    Entre em contato comigo!
 </div>
 
  <div align="center">
