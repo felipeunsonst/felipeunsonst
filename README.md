@@ -8,7 +8,7 @@
 </div>
 <br></br>
 
-Olá 😀, me chamo Felipe, tenho 19 anos, e atualmente sou estudante de ciencias da computação na puc minas e ja estou completamente fascinado pelo mundo da computação. Estou ansioso para aprimorar meus conhecimentos e habilidades como programador. Acompanhe comigo a minha trajetória por meio desse perfil!
+Olá 😀, me chamo Felipe, tenho 20 anos, e atualmente sou estudante de ciencias da computação na puc minas e ja estou completamente fascinado pelo mundo da computação. Estou ansioso para aprimorar meus conhecimentos e habilidades como programador. Acompanhe comigo a minha trajetória por meio desse perfil!
 
 <div align="center">
    Languages:
