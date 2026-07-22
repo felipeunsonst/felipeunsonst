@@ -9,8 +9,9 @@ Olá, eu sou o Felipe Costa 👋
 </p>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipeunsonst&show_icons=true&theme=github_dark&hide_border=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeunsonst&layout=compact&theme=github_dark&hide_border=true">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=felipeunsonst&show_icons=true&theme=transparent&hide_border=true&title_color=1643A2&icon_color=1643A2&text_color=1643A2">
+
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=felipeunsonst&layout=compact&theme=transparent&hide_border=true&title_color=1643A2&text_color=1643A2">
 </div>
 
 ---
