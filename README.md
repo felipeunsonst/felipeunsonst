@@ -20,9 +20,7 @@ Olá, eu sou o Felipe Costa 👋
 
 🎓 Estudante de Ciência da Computação na PUC Minas.
 
-💻 Apaixonado por desenvolvimento Back-end, engenharia de software e banco de dados.
-
-🚀 Atualmente estudando Java, C#, Python, JavaScript e PostgreSQL.
+💻 Apaixonado por desenvolvimento Front-end e Back-end, engenharia de software e banco de dados.
 
 📚 Sempre buscando aprender novas tecnologias e construir projetos.
 
