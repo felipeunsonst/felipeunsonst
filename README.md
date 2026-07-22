@@ -1,47 +1,78 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1643a2&heght=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1643a2&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?color=1643a2&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Felipe+Costa+Unsonst;Tenho+20+anos;Seja+bem+vindo+ao+meu+perfil!)](https://git.io/typing-svg)
+<h1 align="center">
+Olá, eu sou o Felipe Costa 👋
+</h1>
 
-<div align="center">
-    <img width="%49" heigth="195" src="https://github-readme-stats.vercel.app/api?username=felipeunsonst&show_icons=true&count_private=true&hide_border=true&hide_rank=true&title_color=1643a2&icon_color=1643a2&theme=transparent"/>
-    <img width="%41" heigth="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeunsonst&layout=compact&title_color=1643a2&text_color=1643a2&hide_border=true&theme=transparent"/>
-</div>
-<br></br>
-
-Olá 😀, me chamo Felipe, tenho 20 anos, e atualmente sou estudante de ciencias da computação na puc minas e ja estou completamente fascinado pelo mundo da computação. Estou ansioso para aprimorar meus conhecimentos e habilidades como programador. Acompanhe comigo a minha trajetória por meio desse perfil!
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=1643A2&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Back-end+Developer;Always+learning+new+technologies">
+</p>
 
 <div align="center">
-   Languages:
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipeunsonst&show_icons=true&theme=github_dark&hide_border=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeunsonst&layout=compact&theme=github_dark&hide_border=true">
 </div>
 
-<div align="center" style="display: inline-block">
-    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img align="center" alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-    <img align="center" alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-    <img align="center" alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-    <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-</div>
+---
 
-<br></br>
-<hr style="border: 1px solid #1643a2;">
+# 👨🏻‍💻 Sobre mim
+
+🎓 Estudante de Ciência da Computação na PUC Minas.
+
+💻 Apaixonado por desenvolvimento Back-end, engenharia de software e banco de dados.
+
+🚀 Atualmente estudando Java, C#, Python, JavaScript e PostgreSQL.
+
+📚 Sempre buscando aprender novas tecnologias e construir projetos.
+
+---
+
+# 🚀 Tecnologias
 
 <div align="center">
-    Entre em contato comigo!
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java,c,cpp,cs"/>
+
 </div>
 
- <div align="center">
-    <a href="https://github.com/felipeunsonst" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-    </a>
-    <a href="https://www.instagram.com/felipeeuns/" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-    </a>
-    <a href="mailto:felcostaquatro@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-    </a>
+---
+
+# 🛠 Ferramentas
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,idea,postgres,mysql,docker,postman"/>
+
 </div>
 
+---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1643a2&heght=120&section=footer"/>
+# 📊 Estatísticas
 
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=felipeunsonst&theme=transparent&hide_border=true&ring=1643A2&fire=1643A2&currStreakLabel=1643A2"/>
+
+</div>
+
+---
+
+# 📫 Contato
+
+<div align="center">
+
+<a href="mailto:felcostaquatro@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-1643A2?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://github.com/felipeunsonst">
+<img src="https://img.shields.io/badge/GitHub-1643A2?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://www.instagram.com/felipeeuns/">
+<img src="https://img.shields.io/badge/Instagram-1643A2?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1643a2&height=120&section=footer"/>
